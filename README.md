@@ -1,4 +1,5 @@
 #
-O lobo de Wall Street
-Parasita
-Ilha do medo
+O lobo de Wall Street<br>
+A chegada<br>
+Ilha do medo<br>
+O poderoso chefão
